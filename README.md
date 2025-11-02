@@ -10,7 +10,7 @@
 This demo represents taking neuroscience hardware and turning it into a fully working, gesture-controlled VR experience.  
 
 **Mixed Reality MindRove EMG Band Demo** is a Unity-based prototype that bridges **neuroscience**, **physiological computing**, and **immersive design**.  
-It shows how live EMG / IMU signals from the **MindRove Hybrid Armband** can control digital interfaces and games — in this case, a voice-and-gesture-driven **Breakout** game inside a MR environment.
+It shows how live EMG / IMU signals from the **MindRove Armband** can control digital interfaces and games, in this case, a voice-and-gesture-driven **Breakout** game inside a MR environment.
 
 ---
 
