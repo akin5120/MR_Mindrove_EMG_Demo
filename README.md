@@ -1,4 +1,4 @@
-#  MindRove EMG Band Breakout Demo  
+#  Mixed Reality MindRove EMG Band Demo  
 **By Temi Akinlade | Immersive Interaction • Neuroscience • Gesture Control**
 
 ---
@@ -7,10 +7,10 @@
 
 ##  Project Overview  
 
-This demo represents my curiosity and can-do attitude — taking neuroscience hardware and turning it into a fully working, gesture-controlled VR experience.  
+This demo represents taking neuroscience hardware and turning it into a fully working, gesture-controlled VR experience.  
 
-**MindRove EMG Band Breakout Demo** is a Unity-based prototype that bridges **neuroscience**, **physiological computing**, and **immersive design**.  
-It shows how live EMG / IMU signals from the **MindRove Hybrid Armband** can control digital interfaces and games — in this case, a voice-and-gesture-driven **Breakout** game inside a VR environment.
+**Mixed Reality MindRove EMG Band Demo** is a Unity-based prototype that bridges **neuroscience**, **physiological computing**, and **immersive design**.  
+It shows how live EMG / IMU signals from the **MindRove Hybrid Armband** can control digital interfaces and games — in this case, a voice-and-gesture-driven **Breakout** game inside a MR environment.
 
 ---
 
@@ -21,7 +21,7 @@ It shows how live EMG / IMU signals from the **MindRove Hybrid Armband** can con
 |  **Neuroscience Integration** | Uses live EMG + IMU data from the MindRove armband to control UI and gameplay. |
 |  **Gesture Control** | Wrist twist navigates and controls objects; demonstrates potential for EMG-based gesture apps. |
 |  **Voice Command (Vosk)** | Offline recognition of the word **“select”** launches the game — no internet required. |
-|  **VR-Ready Mini-Game** | A Breakout-style physics demo playable in VR (tested on **Meta Quest 3**). |
+|  **VR-Ready Mini-Game** | A Breakout-style physics demo playable in MR (tested on **Meta Quest 3**). |
 |  **Adaptive Paddle Calibration** | Auto-learns your natural twist range and maps it to the full wall width. |
 |  **Research & Experimentation** | Built for neuroscience, motor-learning, and neuroadaptive-interface studies. |
 
@@ -29,14 +29,14 @@ It shows how live EMG / IMU signals from the **MindRove Hybrid Armband** can con
 
 ##  Background & Neuroscience Context  
 
-This project explores **neuroadaptive interfaces** — systems that use real biological signals to create responsive experiences.  
+This project explores **neuroadaptive interfaces**  systems that use real biological signals to create responsive experiences.  
 It connects to neuroscience research in:
 
 - **Motor-rehabilitation** and movement training using biofeedback,  
 - **Gesture-driven interaction** through EMG and IMU sensors,  
-- **Adaptive VR systems** that respond to physiological state.  
+- **Adaptive MR systems** that respond to physiological state.  
 
-By combining a **MindRove EMG band**, **Vosk voice recognition**, and **Unity VR**, this prototype shows how creative experimentation can lead to tangible, research-ready interaction systems.
+By combining a **MindRove EMG band**, **Vosk voice recognition**, and **Unity MR**, this prototype shows how creative experimentation can lead to tangible, research-ready interaction systems.
 
 ---
 
@@ -112,7 +112,7 @@ By combining a **MindRove EMG band**, **Vosk voice recognition**, and **Unity VR
 
 ##  Why It Matters  
 
-This demo illustrates the future of **neuro-interactive design** — where muscle signals, motion, and speech merge to create intuitive, embodied interfaces.  
+This demo illustrates the future of **neuro-interactive design**  where muscle signals, motion, and speech merge to create intuitive, embodied interfaces.  
 It shows that with the right mindset and tools, it’s possible to **build functional, neuroscience-driven prototypes** that go beyond theory into working experiences.  
 
 It also lays the groundwork for building:
