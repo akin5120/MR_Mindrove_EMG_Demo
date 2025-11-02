@@ -52,7 +52,7 @@ By combining a **MindRove EMG band**, **Vosk voice recognition**, and **Unity VR
 
 ##  Setup & Launch Instructions  
 
-### 1️⃣ Unarchive the Build  
+### 1 Unarchive the Build  
 
 1. Download **`Mindrove_MR_build.rar`**.  
 2. Right-click → **Extract Here** (or use WinRAR/7-Zip).  
@@ -61,9 +61,9 @@ By combining a **MindRove EMG band**, **Vosk voice recognition**, and **Unity VR
 
 ---
 
-### 2️⃣ Connect the MindRove Armband via Wi-Fi  
+### 2 Connect the MindRove Armband via Wi-Fi  
 
-> ⚠️ Important: disconnect your PC from regular Wi-Fi / Internet first.  
+>  Important: disconnect your PC from regular Wi-Fi / Internet first.  
 > The PC will connect directly to the MindRove device network.
 
 1. Power on the **MindRove EMG band**.  
@@ -74,7 +74,7 @@ By combining a **MindRove EMG band**, **Vosk voice recognition**, and **Unity VR
 
 ---
 
-### 3️⃣ Launch the Demo  
+### 3 Launch the Demo  
 
 1. Double-click **`MindRove_EMG_Band_Demo_MR.exe`**.  
 2. Put on your **VR headset** (Quest 3 or compatible).  
